@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.main-header{
+  background-color: rgb(17, 17, 49);
+  color: #fff;
+
+}
+
+.main-header a{
+ color: #fff;
+ text-decoration: none;
+ text-transform: capitalize;
+ transition: all 1s ease;
+ padding: 15px;
+}
+.main-header a:hover{
+ color: #806c6c;
+}
