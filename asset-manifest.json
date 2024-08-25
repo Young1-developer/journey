@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/journey/static/css/main.0bcb3963.css",
+    "main.js": "/journey/static/js/main.25bd6bf6.js",
+    "static/js/453.07855e59.chunk.js": "/journey/static/js/453.07855e59.chunk.js",
+    "static/media/usama.jpg": "/journey/static/media/usama.da2dbbb95deef4ab3ab2.jpg",
+    "index.html": "/journey/index.html",
+    "main.0bcb3963.css.map": "/journey/static/css/main.0bcb3963.css.map",
+    "main.25bd6bf6.js.map": "/journey/static/js/main.25bd6bf6.js.map",
+    "453.07855e59.chunk.js.map": "/journey/static/js/453.07855e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bcb3963.css",
+    "static/js/main.25bd6bf6.js"
+  ]
+}
